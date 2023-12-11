@@ -26,3 +26,6 @@ Please follow these guidelines to ensure the accurate translation of the design 
 
 ### Interactivity
 - If the design includes interactive elements (buttons, dropdowns, etc.), implement them with appropriate hover or click effects.
+
+## Submission lInk
+- <a href="https://forms.zohopublic.com/director48/form/PanicleTechInternshipTaskSubmission/formperma/hML5vVXHBtiivrItMtD0OmrVeWhfMlKobjjKoT_NpvI">Link</a>
